@@ -9,7 +9,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class FuncoesCrawler {
-	private String localExe = "C:\\Users\\OSMAR COSTA\\Desktop\\203\\caseWebCrawler\\chromedriver.exe";
+	private String localExe = "chromedriver.exe";
 	private String titulo;
 	private String url;
 	private String texto;
